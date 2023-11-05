@@ -1,4 +1,8 @@
-import { View, Text } from "react-native";
+import { View, ScrollView, SafeAreaView, Text } from "react-native";
+import { Stack, useRouter } from "expo-router";
+import { useState } from "react";
+
+import { COLORS, icons, images, SIZES } from "../constants";
 
 const Home = () => {
   return (
