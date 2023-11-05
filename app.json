@@ -17,6 +17,12 @@
         "projectId": "878ae03a-cd59-47e4-b26b-09fa7c088fdd"
       }
     },
-    "owner": "skyward_lizard"
+    "owner": "skyward_lizard",
+    "android": {
+      "package": "com.skyward_lizard.jobhuntingapp"
+    },
+    "ios": {
+      "bundleIdentifier": "com.skywardlizard.jobhuntingapp"
+    }
   }
 }
