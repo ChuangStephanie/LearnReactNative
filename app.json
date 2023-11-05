@@ -8,6 +8,15 @@
       "expo-router"
     ],
     "name": "ReactNative_TUT",
-    "slug": "ReactNative_TUT"
+    "slug": "job-hunting-app",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "878ae03a-cd59-47e4-b26b-09fa7c088fdd"
+      }
+    },
+    "owner": "skyward_lizard"
   }
 }
