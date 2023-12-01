@@ -1,4 +1,4 @@
-Tutorial: https://youtu.be/mJ3bGvy0WAY?si=KS2lnOBtCVXPK24l
+Tutorial Followed: https://youtu.be/mJ3bGvy0WAY?si=KS2lnOBtCVXPK24l
 
 # Expo Router Example
 
